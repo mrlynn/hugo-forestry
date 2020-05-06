@@ -1,3 +1,4 @@
-baseURL = "https://snipcart-hugo-forestry.netlify.com/"
+baseURL = "https://05052020-iexzn.mongodbstitch.com/"
 languageCode = "en-us"
 title = "CheeseCity"
+publishDir = "../hosting/files"
